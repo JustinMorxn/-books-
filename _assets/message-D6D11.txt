@@ -1,0 +1,57 @@
+V4 FINAL — STAGE 2 TEXT OVERLAY (EDIT THE PROVIDED STAGE 1 PLATE)
+
+Edit the provided image (the clean Stage 1 plate). Add text only.
+
+ABSOLUTE PRESERVATION (HARD RULE)
+- Do NOT move, resize, rotate, redraw, repaint, or alter any existing illustration pixels (astronaut, halo, antenna, speed lines, dash marks) or the black background.
+- The ONLY allowed new pixels are the pixels inside the two text elements.
+- No added texture anywhere: no grain, no paper sheen, no diagonal streaks, no dust, no stars, no gradients in the background, no banding, no vignette.
+- No glow haze, no bloom, no fog. Do not lift the black.
+
+ADD ONLY THESE TWO TEXT ELEMENTS (EXACT SPELLING, NO OTHER TEXT)
+1) Angels and Spaceships
+2) The Lights in the Sky are Stars
+
+TITLE: PLACEMENT + LAYOUT (TOP)
+- Place the title in the upper-left / upper area with generous breathing room.
+- Keep the entire title block above the top third of the canvas so it never crowds the astronaut.
+- Two lines:
+  Line 1: “Angels” large at top-left. “and” smaller on the same line to the right.
+  Line 2: “Spaceships” large beneath, spanning wider than “Angels”.
+- Keep a clear gap between the bottom of “Spaceships” and any illustration marks.
+
+TITLE: LETTERING STYLE (HAND-LETTERED MID-CENTURY)
+- Chunky, rounded, hand-lettered mid-century display lettering with slight playful irregularity.
+- Must NOT look like a modern digital font: include subtle baseline wobble and tiny shape quirks.
+- No bevel/3D, no drop shadow, no texture inside letters.
+
+TITLE: COLOR BEHAVIOR (MATCH THE COVER FEEL)
+- Each letter uses a SINGLE flat solid fill color (no gradients inside any letter, no shading, no highlights).
+- Left-to-right rainbow progression across the full title:
+  blues/teals on the left → greens → yellows → oranges → pink/red on the far right.
+- Saturated but “printed ink” restrained (not neon-sign bright).
+
+TAGLINE: PLACEMENT + STYLE (BOTTOM, QUIET)
+- Add “The Lights in the Sky are Stars” near the bottom with comfortable margins, centered.
+- Make it clearly secondary: smaller and lighter than the title.
+- Simple clean book-cover line lettering (more restrained than the title).
+- Flat solid fills only. No shadows. No texture. No glow haze.
+
+TAGLINE: COLOR BEHAVIOR (CRITICAL FIX — DO NOT COLLAPSE TO ONE COLOR)
+- The tagline must show a clear left-to-right multi-color progression similar to the title.
+- To ensure the progression is visible even at small size, color the tagline by word-groups (flat fills, no gradients):
+  Group 1 “The Lights” = teal/blue
+  Group 2 “in the Sky” = green/yellow
+  Group 3 “are Stars” = orange/pink
+- Keep these colors dimmer than the title (about 20–35% lower brightness) while still visibly multi-colored.
+- Do NOT render the entire tagline in a single color.
+
+AURA / EDGE ENERGY
+- Do NOT add any aura/glow in this version. Keep edges crisp and clean.
+
+FINAL FAIL CONDITIONS (REJECT IF ANY HAPPEN)
+- Any changes to the illustration or background outside the text shapes.
+- Any gradients or shading inside letters.
+- Any extra text.
+- Any haze/glow/banding/texture introduced anywhere.
+- Tagline appears mostly single-color instead of clearly multi-colored across groups.

@@ -1,0 +1,52 @@
+Edit the provided Stage 1 image.
+
+PRIMARY GOAL
+Add ONLY these two text elements, spelled exactly:
+1) “Angels and Spaceships”
+2) “The Lights in the Sky are Stars”
+No other text.
+
+PRESERVE STAGE 1 (ABSOLUTE)
+Do not move, resize, rotate, redraw, or alter any existing illustration elements (astronaut, halo, antenna, speed lines, dash marks).
+Do not add or remove any marks.
+Do not add grain, texture, stars, dust, gradients, vignette, or banding.
+Keep the background perfectly uniform solid #050508. Do not lift or brighten the black.
+
+TITLE LAYOUT (MATCH THE COVER FEEL)
+Two-line title in the upper portion:
+- Line 1: “Angels” large at top-left. “and” smaller to the right on the same line.
+- Line 2: “Spaceships” large beneath, spanning wide.
+Keep generous negative space around the title. Do not overlap any illustration elements.
+
+TITLE LETTERING STYLE
+Hand-lettered, chunky, rounded mid-century display lettering with slight playful irregularity.
+Not a modern font. No bevel/3D. No drop shadow. No texture inside the letters.
+
+TITLE COLOR (RESTRAINED, “DARKER ENERGY”)
+Each letter is a flat SOLID fill color (no gradients, no internal shading).
+Use a left-to-right rainbow progression across the full title:
+cool blues/teals on the left, then greens/yellows, then oranges, ending in pink/red on the far right.
+Keep the title saturated but subtly less bright than a neon sign, so the black void remains dominant.
+
+SUBTLE “DARKSABER” EDGE ENERGY (TEXT ONLY, VERY TIGHT)
+Add a very subtle edge aura that hugs the outside of the letter contours:
+- The solid letter fills remain crisp and dominant.
+- The aura is hairline-thin and tight to the edges. No wide glow, no haze, no fog.
+- Use a faint neutral rim plus a very faint tint matching each letter’s color.
+- No light spill into the black. Do not alter the background.
+
+BOTTOM TAGLINE PLACEMENT
+Add “The Lights in the Sky are Stars” near the bottom area with comfortable margins, small and understated.
+Do not overlap the astronaut or motion marks.
+
+BOTTOM TAGLINE STYLE
+Simple, clean book-cover line lettering (more restrained than the chunky title).
+Flat solid fill (no gradients). Keep it readable but quiet.
+Optional: the same tight edge aura as the title, but weaker (nearly imperceptible).
+No shadows. No texture. No background changes.
+
+FINAL CHECKS
+Only the two requested text elements exist.
+Background remains perfectly uniform #050508.
+No changes to the illustration layer.
+No haze, bloom, or banding.

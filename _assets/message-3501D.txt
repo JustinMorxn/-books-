@@ -1,0 +1,58 @@
+Using the provided cover photos as strict visual reference, generate ONE single clean digital redraw of the FRONT COVER ONLY. Not a photo, not a scan, not a collage. It must look like a pristine “as-intended” restoration of the original design: perfect flat geometry, no physical wear, no camera distortion.
+
+FORMAT AND FRAMING
+- Aspect ratio: 2:3 portrait.
+- Full cover, perfectly front-facing, flat rectangle. No spine, no perspective tilt, no curvature, no border.
+
+BACKGROUND (ABSOLUTE)
+- A perfectly uniform deep near-black field, solid hex #050508.
+- No stars, no speckles, no dust, no grain, no paper texture, no print texture, no halftone, no stipple.
+- No gradient, no vignette, no lighting falloff.
+
+TEXT (ONLY THIS, EXACT)
+- Include only the title text: “Angels and Spaceships”
+- No other text anywhere. No author name, no tagline, no publisher, no logos, no watermark, no signature, no extra symbols.
+
+TITLE LAYOUT (MATCH REFERENCE)
+- Place title in the upper portion with generous surrounding black space.
+- Two-line structure exactly:
+  Line 1: “Angels” large at top-left. “and” smaller to the right on the same line.
+  Line 2: “Spaceships” large beneath, spanning most of the width.
+
+TITLE STYLE
+- Hand-lettered, chunky, rounded mid-century display letters with slight human irregularity, slightly clumsy and wobbly like the original, not a modern computer font.
+- No outlines, no drop shadows, no 3D, no bevel.
+- Color behavior is critical: each letter is a solid fill color (no gradient inside any letter). Rainbow progression happens letter-by-letter across the title, cooler blues/teals on the left shifting through greens and yellows into oranges and ending in pinks/reds on the right.
+
+MAIN ART (ASTRONAUT, VIEWPOINT AND POSE ARE CRITICAL)
+- Place astronaut in the lower-right to center-right, traveling diagonally toward the upper-right.
+- Viewpoint: astronaut is seen mostly from behind (rear or three-quarter rear). No face visible, no front visor view.
+- Helmet must read as the back of a bubble helmet: a dark circular disk with a bright rim highlight.
+- Pose is stiff and simple: torso straight, legs straight and held together, feet close. Arms reach forward/upward in a simple pose. Gloves are simplified shapes, not realistic fingers.
+- NEGATIVE CONSTRAINTS: no front-facing hero pose, no twisting torso, no dramatic action pose, no bent-knee running pose, no wide-splayed legs.
+
+SUIT DESIGN (SIMPLIFIED, PERIOD GRAPHIC)
+- Simplified segmented suit with tubular limbs and simple bands.
+- Include the studded rivet-dot harness and belt motif around the torso area, stylized like the reference.
+- Avoid modern suit paneling, realistic life-support packs, or complex tech seams.
+
+LINE AND COLOR RENDERING
+- Render the astronaut and marks as crisp luminous scratch-like strokes with bright centers and clean edges, high contrast on black.
+- No painterly blending, no airbrush shading, no soft bloom, no blur. Not vector-icon flat either. Keep it like luminous drawn strokes on black.
+
+HALO AND ANTENNA (CRITICAL)
+- Above the helmet, draw a thin outlined ring as a flat ellipse with inner and outer contour lines (not a thick donut).
+- A straight thin vertical antenna rod rises from the helmet and passes cleanly through the halo ring.
+
+SPEED LINES (CRITICAL COUNTS AND MARKS)
+- Exactly five rigid, straight, parallel lines extend back-left from behind the astronaut’s upper back, evenly spaced, hard-edged.
+- Color progression across the five lines: cyan through green toward lime. Only the far-left ends gently fade.
+- Add the intentional structure: an X-shaped brace across the five lines (two diagonal strokes that cross).
+- Add exactly three short perpendicular tick marks near the right ends of the upper lines.
+- NEGATIVE: no soft glowing trails, no smoke, no blur.
+
+EXTRA MOTION MARKS
+- Add a scattered cluster of short cyan/blue dash marks behind the lower body and boots, trailing back-left. These are dash marks, not stars.
+
+FINISH
+- Pristine, defect-free redraw. No wear, stains, scuffs, creases, glare, banding, or texture of any kind.

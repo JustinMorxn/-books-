@@ -1,0 +1,56 @@
+Two-stage restoration. Stage 1 is art only with ZERO TEXT. Typography will be added later.
+The reference photos are authoritative. Do not rebalance the design to compensate for missing text.
+
+FORMAT
+2:3 portrait. Front cover only. Perfectly flat front-facing rectangle.
+No spine. No 3D book. No perspective tilt. No curvature. No border.
+
+BACKGROUND
+Perfectly uniform solid #050508. No stars. No speckles. No dust. No grain. No paper/print texture.
+No halftone. No gradient. No vignette. No banding.
+
+TEXT
+No text of any kind anywhere.
+
+TITLE KEEP-OUT ZONE
+Reserve the top ~40% of the cover as a strict keep-out zone.
+That entire zone must remain pure #050508 and visually inactive: no glow haze, no marks, no motion streaks, no highlights.
+No part of the astronaut, halo, speed lines, or dash marks may enter this zone.
+
+COMPOSITION
+Keep generous negative space in the upper portion.
+Place the astronaut in the lower-right to center-right region, traveling diagonally toward the upper-right.
+Do not enlarge or center the astronaut to fill empty space.
+
+ASTRONAUT
+Rear or three-quarter rear view. No face visible. Helmet reads as the back of a bubble helmet with a rim highlight.
+Stiff pose: torso straight, legs straight and held together, feet close.
+Arms reach forward/upward. Gloves are simplified mitten-like shapes.
+Simplified segmented suit with tubular limbs and simple bands.
+Include studded rivet-dot harness and belt motif around torso.
+
+RENDERING STYLE
+Crisp luminous scratch-like strokes, bright centers, clean edges, high contrast on black.
+No blur, no soft bloom, no airbrush shading.
+No spray-dot speckling. Use scratch strokes and short hatching instead.
+Not flat vector icon art.
+
+HALO + ANTENNA
+Thin outlined halo ring as a flat ellipse above the helmet.
+Straight thin vertical antenna rises from helmet and passes through the halo.
+Keep halo and antenna fully below the keep-out zone.
+
+SPEED LINES
+Exactly five rigid straight parallel lines extending back-left from behind the astronaut’s upper back.
+Even spacing. Hard-edged lines. Gentle fade only at the far-left ends.
+Color progression across the five lines: cyan through green toward lime.
+Include the photo-accurate signature marks:
+- One clean diagonal cross-stroke across the bundle of five lines.
+- Exactly three short tick marks total, perpendicular to the lines, near the right ends of the TOP THREE lines only. No ticks on the bottom two lines.
+
+EXTRA MOTION DASHES
+A small scattered cluster of short cyan/blue dash marks behind the lower body and boots only, trailing back-left.
+Dash marks only. Not dots. Not stars. Not grain. Confined to the boot region.
+
+FINISH
+Pristine, defect-free redraw of the illustration layer only. No wear, stains, scuffs, glare, or camera artifacts.

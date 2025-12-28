@@ -1,0 +1,63 @@
+Edit the provided image (the clean Stage 1 plate). Add text only.
+
+ABSOLUTE PRESERVATION (NON-NEGOTIABLE)
+- Do not change any pixel of the existing illustration (astronaut, halo, antenna, speed lines, dash marks) or the black background.
+- The ONLY pixels that may change are the pixels that form the two text elements (the inside of the letters). No other edits.
+- No grain, no texture, no stars, no dust, no gradients, no vignette, no banding, no haze, no glow bloom.
+
+ADD ONLY THESE TWO TEXT ELEMENTS (spelled exactly, no other text)
+1) Angels and Spaceships
+2) The Lights in the Sky are Stars
+
+TITLE BLOCK: PLACEMENT (PIN IT DOWN)
+- Place the entire two-line title block in the upper-left region.
+- Left margin about 8% of canvas width.
+- Top margin about 6% of canvas height.
+- The title block must fit entirely above about 32% of canvas height (so it never crowds the astronaut).
+- Do not overlap any illustration marks.
+
+TITLE LAYOUT (MATCH OG FEEL, NOT NECESSARILY 1:1 POSITION)
+- Line 1: “Angels” large. “and” smaller on the same line, placed to the right.
+- Line 2: “Spaceships” large beneath, spanning wider than “Angels”.
+- Size relationships:
+  - “and” cap height about 60% of “Angels” cap height.
+  - “Spaceships” cap height about 110% of “Angels” cap height.
+
+TITLE LETTERING STYLE (HAND-LETTERED, NOT A FONT)
+- Chunky, rounded, mid-century hand-lettered display lettering.
+- Slight playful irregularity: small baseline wobble, uneven letter widths, tiny shape quirks.
+- Must NOT look like a modern digital font. Avoid perfect uniformity and perfect curves.
+- Visible OG-like traits:
+  - The capital “A” is tall and blocky with a triangular inner counter.
+  - The “g” in “Angels” has a descending tail that hooks.
+  - The capital “S” in “Spaceships” is slightly oversized and more decorative than the other letters.
+- No bevel, no 3D, no drop shadow, no texture inside letters.
+
+TITLE COLOR (MIDDLE GROUND, FLAT INK, NO GRADIENTS)
+- Each letter is a single flat solid fill color. NO gradients, NO shading, NO highlights.
+- Use a left-to-right rainbow progression across the full title:
+  blues/teals on the left, then greens, then yellows, then oranges, ending in pink/red at the far right.
+- Use these as target ink colors (allow slight variation but keep the same vibe):
+  Blue #456F9F, Teal #608493, Green #728F82, Yellow #F7E013 (or duller #E7DA2D),
+  Orange #ED8A5A, Pink-red #ED5B78.
+- Keep colors saturated but printed-ink restrained, not neon-sign bright.
+
+TAGLINE: PLACEMENT + STYLE (QUIET)
+- Add: “The Lights in the Sky are Stars”
+- Place near the bottom, centered, with comfortable margins:
+  baseline around 92% of canvas height.
+- Make it small and understated:
+  cap height about 3% of canvas height.
+- Simple clean book-cover line lettering, flatter and more restrained than the title.
+- Flat solid fill, no gradient, no shadow, no texture.
+- Use a quiet muted teal-blue (target #608493) with low brightness so it does not compete with the art.
+
+AURA / EDGE ENERGY
+- Do NOT add any glow or aura in this version. Keep letter edges clean and crisp.
+  (We can add a hairline edge later only if everything else is perfect and it does not lift the black.)
+
+FINAL FAIL CONDITIONS (REJECT AND REGENERATE IF ANY OCCUR)
+- Any change to the illustration or background outside the letter shapes.
+- Any gradients inside letters.
+- Any haze, glow bloom, or background lift.
+- Any extra text besides the two required lines.
